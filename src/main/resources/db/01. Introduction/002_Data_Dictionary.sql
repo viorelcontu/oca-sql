@@ -1,0 +1,1 @@
+SELECT * FROM dictionary where table_name like upper('%user%');

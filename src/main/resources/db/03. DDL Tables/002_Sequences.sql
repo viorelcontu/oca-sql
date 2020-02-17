@@ -1,0 +1,3 @@
+-- You cannot replace a sequence, you need to drop it.
+-- sequence.NEXTVAL you cannot use it for SELECT distinct statements, group by, having, order by!!!!!
+-- And in a subquery in SELECT DELETE UPDATE. INSERT SUBQUERies are OK!!! SELECT for a VIEW.
