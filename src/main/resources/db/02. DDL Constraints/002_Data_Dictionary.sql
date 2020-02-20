@@ -12,7 +12,6 @@ CREATE TABLE groups
     UNIQUE (title)
 );
 
--- Explicit constraints
 CREATE TABLE students
 (
     id       NUMBER(6)

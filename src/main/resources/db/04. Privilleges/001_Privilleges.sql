@@ -1,2 +1,0 @@
--- Who can create roles?
--- Who roles belong to? Can roles belong to a user?
